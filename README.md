@@ -15,6 +15,7 @@ Dictionary cantain key values pairs as its data elements.They are mutable.
 There are three types of number i.e numeric,float,complex.
 6)Strings-
 In string we studied single line and multi line string,string are written in double quotes.
+
 Task-2
 1)if statement-
 if statement is used when single condition is to check like number is equal to, not equal to,greater than,smaller than etc.
