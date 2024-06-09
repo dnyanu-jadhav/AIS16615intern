@@ -50,6 +50,47 @@ values in a list.Interquartile Range (IQR) is used to Measure the middle 50% of 
 5)Logical User-Defined Functions-
 #is_even-Purpose: Check if a number is even.#is_odd-Purpose: Check if a number is odd.#is_prime-Purpose: Check if a number is prime.#is_palindrome-Purpose: Check if a string is a palindrome.#is_anagram-Purpose: Check if two strings are anagrams.#is_subset-Purpose: Check if one set is a subset of another.#is_superset-Purpose: Check if one set is a superset of another.#are_disjoint-Purpose: Check if two sets are disjoint.#are_equal-Purpose: Check if two lists are equal.#is_sorted-Purpose: Check if a list is sorted.
 
+Task 4 -
+#In task 4 we studied all about Numpy library.Starting with a basic introduction and ends up with
+creating and plotting random data sets,and working with NumPy functions:
+#NumPy is an open source project that enables numerical computing with Python. It was created in
+2005 building on the early work of the Numeric and Numarray libraries.
+NumPy will always be 100% open source software and free for all to use.
+We studied 1) creating arrays, 2)array indexing ,3) slicing, 4)numpy data types ,5) copy or view, 6)array
+shape and reshape ,7)array itterating , 8)join , split, search , sort and filter .
+Here 1D array , 2D array,3D array and multidimensional array are studied.
+NumPy has some extra data types, and refer to data types with one character, like i for integers, u for
+unsigned integers etc.
+Below is a list of all data types in NumPy and the characters used to represent them.
+1)i - integer
+2)b - boolean
+3)u - unsigned integer
+4)f - float
+5)c - complex float
+6)m - timedelta
+7)M - datetime
+8)O - object
+9)S - string
+10)U - unicode string
+11)V - fixed chunk of memory for other type ( void )
+#Then we learn how to generate Random Number.
+NumPy offers the random module to work with random numbers.
+#Data Distribution is a list of all possible values, and how often each value occurs.
+Such lists are important when working with statistics and data science.
+
+The random module offer methods that returns randomly generated data distributions.
+Then we see that generation of random numbers from particular distribution and visuallisation of that
+distribution .like normal distribution ,binomial, poisson , uniform, logistic, multinomial, exonential, chi-
+square,rayleighs,pareto,zipf distributions
+To plot the graph of distribution
+#from numpy import random
+#import matplotlib.pyplot as plt
+#import seaborn as sns
+Then we use ufuncs stands for &quot;Universal Functions&quot; and they are NumPy functions that operate on the
+ndarray object.
+We studied ufunctions like simple arithmatic , rounding decimals, logs, summations, products,
+differences, finding lcm,gcd, trignometric functions, hyperbolic function and set operations.
+
 
 
 
