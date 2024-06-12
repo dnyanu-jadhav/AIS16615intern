@@ -91,6 +91,53 @@ ndarray object.
 We studied ufunctions like simple arithmatic , rounding decimals, logs, summations, products,
 differences, finding lcm,gcd, trignometric functions, hyperbolic function and set operations.
 
+Task 5 -
+In task 5 we studied the pandas library in python.
+#we see creation of series and their operation .A Pandas Series is like a column in a table. It is a one-
+dimensional array holding data of any type.
+#Then we see the data frame creation using dictionary and matrix ,and how to to read data in csv and
+xlsx file in panda library in python.
+#Data frame operation -
+In data frame operation different methods of operation like value count , apply, unique,
+nunique,describe,merge,sort etc
+#selection-
+In selection we see that how to select data frame column and row by using (loc,iloc) function .
+#In pandas, selecting data from a DataFrame involves specifying which columns and/or rows you want
+to work with.
+#we can use several methods for selection, including .loc, .iloc, and boolean indexing.
+Also conditional selection with how to add , delete and update column in the data frame .Also seen that
+indexing and removing indexing by set reset function.
+Operation between two columns like addition , substraction, multiplication and division are carried out .
+#missing values
+In missing values we studied checking missing values, how to drop missing values by row and by column
+and also filling missing values by mean ,median etc.By using function
+#Using isnull(): This method returns a DataFrame of the same shape with boolean values indicating
+whether the data is missing (True) or not (False).
+#we can drop rows that contain any missing values using dropna(axis=0):
+#we can fill missing values with a specific value using fillna(value):
+
+Task 6 -
+In task 6 we studied the matplotlib and seaborn library.
+Matplotlib is a graph plotting library in python that serves as a visualization utility.
+#Pyplot
+Most of the Matplotlib utilities lies under the pyplot submodule, and are usually imported under the plt
+alias:
+#import matplotlib.pyplot as plt
+#Plotting x and y points
+The plot() function is used to draw points (markers) in a diagram.
+In matplotlib we study matplotlib plotting with markers,lines,labels,grid,subplot,scatter plot,bars,
+histograms and pie charts .
+#seaborn libraray-
+Seaborn is a powerful and versatile data visualization library in Python, built on top of the popular
+Matplotlib library.
+It provides a high-level interface for drawing attractive and informative statistical graphics.
+Seaborn is particularly useful for visualizing complex datasets and for creating aesthetically pleasing
+visualizations with minimal code.
+#import seaborn as sns
+#In seaborn library we see different types of plotting of graphs such as distribution plot, box plot, violin
+plot, bar plot,scatter pot,
+line plot, heatmap, pair plot ,facet grid, regression plot , residual plot.
+
 
 
 
