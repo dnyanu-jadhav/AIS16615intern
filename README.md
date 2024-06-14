@@ -138,6 +138,12 @@ visualizations with minimal code.
 plot, bar plot,scatter pot,
 line plot, heatmap, pair plot ,facet grid, regression plot , residual plot.
 
+Task 7
+1] Numpy exercise:- solved probles related to array indexing slicing,creating arrays containg zeros ones generating random numbers from normal distribution,using linspace addition of elements in an array calculate mean standard deviation, etc
+2]Ecommerce purchase exercise:- studied the dataset and found out the mean purchase price maximum and minimum purchase price,number of people having job title lawyer number of people making the purchase during the AM and how many people made the purchase during PM,5 most common Job Titles,person with the following Credit Card Number: 4926535242672853 ,number of people have American Express as their Credit Card Provider and made a purchase above $95,number of people have a credit card that expires in 2025,top 5 most popular email providers/hosts (e.g. gmail.com, yahoo.com, etc...)
+3] Salary exercise:-studied the data read the file and found out average BasePay,the highest amount of OvertimePay in the dataset,job title of JOSEPH DRISCOLL, How much does JOSEPH DRISCOLL make,name of highest paid person,name of lowest paid person,the average (mean) BasePay of all employees per year,number of unique job titles,the top 5 most common jobs,number of  Job Titles were represented by only one person in 2013, people have the word Chief in their job title,there a correlation between length of the Job Title string and Salary
+
+
 
 
 
