@@ -143,6 +143,16 @@ Task 7
 2]Ecommerce purchase exercise:- studied the dataset and found out the mean purchase price maximum and minimum purchase price,number of people having job title lawyer number of people making the purchase during the AM and how many people made the purchase during PM,5 most common Job Titles,person with the following Credit Card Number: 4926535242672853 ,number of people have American Express as their Credit Card Provider and made a purchase above $95,number of people have a credit card that expires in 2025,top 5 most popular email providers/hosts (e.g. gmail.com, yahoo.com, etc...)
 3] Salary exercise:-studied the data read the file and found out average BasePay,the highest amount of OvertimePay in the dataset,job title of JOSEPH DRISCOLL, How much does JOSEPH DRISCOLL make,name of highest paid person,name of lowest paid person,the average (mean) BasePay of all employees per year,number of unique job titles,the top 5 most common jobs,number of  Job Titles were represented by only one person in 2013, people have the word Chief in their job title,there a correlation between length of the Job Title string and Salary
 
+#Case study -
+In this case study we download the titanic data from kaggle and import it to jupyter notebook.Then we find the missing values and filled the missing values by its mean ,
+and droped the variable like cabin,passenger id etc. Then we do label encoding for the categorical variable.
+Then Performd the EDA i.e exploratory data analysis on titanic data such as bar plot,scatter plot,joint plot and pie chart .From the graph it is seen that the females are survived 
+more than males.The passengers who are in class 1st are most survived as compared to class 2nd and 3rd.
+In titanic data survival is the dependent variable and other variables like age,sex,fare,sibps,embarked
+are independent variables.
+Then we split data into train test and fit the algorithms like naive bayes,KNN, dicision tree and predict the text data using particular fitted model.
+In model evaluation we find accuracy,classification report,confusion matrix,precision and recall for each algorithm .and compare it with each other and we may conclude that decision tree is the best model on the basis of prcision , accuracy and recall, Where the values of precision,accuracy and recall for dicision tree are high as compared to knn and naive bayes.
+
 
 
 
